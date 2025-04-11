@@ -1,0 +1,218 @@
+
+@font-face {
+    font-family: 'Galgo';
+    src: url('font/Galgo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0, 0, 0);
+}
+ 
+.logo{
+    position: absolute;
+    left: 46%;
+    color: rgb(255, 255, 255);
+    bottom: 83%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav .home{
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+.nav .home:hover{
+    color: black;
+    background-color: white;
+}
+
+.nav .products{
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 10%;
+    left: 37%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+.nav .products:hover{
+    color: black;
+    background-color: white;
+}
+
+.nav .about{
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 10%;
+    left: 56%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+.nav .about:hover{
+    color: black;
+    background-color: white;
+}
+
+.nav .contacts{
+    color: white;
+    background-color: black;
+    position: absolute;
+    top: 10%;
+    left: 63%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+.nav .contacts:hover{
+    color: black;
+    background-color: white;
+}
+
+.intro h1{
+    color: white;
+    position: absolute;
+    left: 34%;
+    top: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.intro h2{
+    color: white;
+    position: absolute;
+    left: 45%;
+    top: 55%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.aboutbt h1{
+    color: white;
+    position: absolute;
+    left: 45.5%;
+    top: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.aboutbt h2{
+    color: white;
+    position: absolute;
+    top: 110%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.productsbt h1{
+    color: white;
+    position: absolute;
+    top: 130%;
+    left: 43.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.productsbt h2{
+    color: white;
+    position: absolute;
+    top: 140%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.productsbt p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 145%;
+    font-size: 1.5em;
+}
+
+.view {
+    color: white;
+    background-color: black;
+    border: none;
+    position: absolute;
+    top: 148%;
+    left: 71%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+}
+
+.view:hover{
+    color: black;
+    background-color: white;
+}
+
+.quotes h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 160%;
+    left: 20%;
+}
+.quotes h1:hover{
+    color: grey;
+    background-color: white;
+}
+
+.quotes h2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 168%;
+    left: 45%;
+}
+
+footer h1{
+    position: absolute;
+    top: 195%;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+    font-size: 3em;
+    background-color: white;
+    width: 100%;
+    height: 400px;
+}
+
+footer .tiktok{
+    position: absolute;
+    top: 210%;
+    color: rgb(234, 0, 0);
+    background-color: black;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+
+footer .instagram{
+    position: absolute;
+    top: 220%;
+    color: orange;
+    background-color: orangered;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+
+footer .whatsapp{
+    position: absolute;
+    top: 230%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(55, 215, 103);
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
+
+footer .telegram{
+    position: absolute;
+    top: 240%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(122, 226, 240);
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+}
